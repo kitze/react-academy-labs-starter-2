@@ -4,7 +4,10 @@ body {
   font-size: 15px;
   padding: 30px;
   max-width: 600px;
+  background-color: #1f1f1f;
+  color: white;
 }
+
 
 img {
   width: 50px;
